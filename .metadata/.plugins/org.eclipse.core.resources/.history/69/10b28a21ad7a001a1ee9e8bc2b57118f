@@ -1,0 +1,17 @@
+package estancias;
+
+public class teste1 {
+
+	public String nome;
+	public String cpf;
+	public int  idade;
+	
+	public teste1 () {
+		this.nome = nome;
+		this.cpf = cpf;
+		this.idade = idade;
+	}
+	
+	
+}
+

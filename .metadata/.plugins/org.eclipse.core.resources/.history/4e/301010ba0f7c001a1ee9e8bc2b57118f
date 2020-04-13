@@ -1,0 +1,23 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+import exercicios81.ContaBancaria;
+
+public class ContaCorrente {
+
+	public static void main(String[] args) {
+	Locale.setDefault(Locale.US);
+	Scanner scan = new Scanner(System.in);
+	ContaBancaria conta1 = new ContaBancaria();
+	
+	conta1.setnumeroConta(scan.nextInt());
+	conta1.settitular(scan.nextLine());
+	double saldo = scan.nextDouble();
+	conta1.setsaldo(saldo);
+	
+ System.out.println();
+
+	}
+
+}

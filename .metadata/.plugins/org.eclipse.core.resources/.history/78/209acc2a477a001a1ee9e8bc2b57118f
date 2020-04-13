@@ -1,0 +1,13 @@
+package estancias;
+
+public class CotacaoDollar {
+	
+	public double price;
+	public double bought;
+	
+	public static double cal.Dollar(double price, double bougth ){
+		return price * bought;
+		
+	}
+
+}

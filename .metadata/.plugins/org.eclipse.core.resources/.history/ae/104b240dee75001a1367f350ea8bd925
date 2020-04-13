@@ -1,0 +1,20 @@
+import java.util.Locale;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		int y= 32;
+		double x= 10.35784;
+		// TODO Auto-generated method stub
+		System.out.println(y);
+		System.out.printf("%.2f%n", x);
+		System.out.println("Ola mundo");
+		Locale.setDefault(Locale.US);
+		System.out.printf("%.4f%n", x);
+		//concatenação
+		System.out.println("resultado= " + x + " METROS");
+		System.out.printf("resultado = %.2f metros%n",  x);
+	}
+
+}

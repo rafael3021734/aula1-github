@@ -1,0 +1,16 @@
+
+public class Estrutura_repeticao_while {
+
+	public static void main(String[] args) {
+	int x, y;
+	x = 5;
+	y = 0;
+	while(x > 10) {
+		System.out.println("O x é maior que 10");
+	}
+	while(x < 10) {
+		System.out.println("O x é menor que 10");
+	}
+	}
+
+}

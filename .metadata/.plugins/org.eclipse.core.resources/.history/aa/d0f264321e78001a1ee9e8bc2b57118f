@@ -1,0 +1,11 @@
+package entidades;
+
+public class triangleClass {
+//Declaração atributos da classe.
+public double a;
+public double b;
+public double c;
+
+
+}
+
