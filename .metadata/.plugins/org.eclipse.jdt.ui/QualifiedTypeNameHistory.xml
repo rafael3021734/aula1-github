@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="entidades.ContaJuridica"/>
+<fullyQualifiedTypeName name="exercicios81.ContaBancaria"/>
+<fullyQualifiedTypeName name="entidades.ContaPoupanca"/>
+<fullyQualifiedTypeName name="entidades.ContaBancaria"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="entidades.enums.Color"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="entidades.circulo"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+</qualifiedTypeNameHistroy>

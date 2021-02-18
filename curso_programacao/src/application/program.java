@@ -12,14 +12,14 @@ public class program {
 		 teste1 programa = new teste1("RAFAEL", "231000122895", 20);
 		 teste1 programa2 = new teste1("LEANDRO", "3244566593", 17);
 		 teste1 programa3 = new teste1("LEANDRO", "3244566593", 17);
-		 teste1 programa4 = new teste1();
+		 teste1 programa4 = new teste1("LEANDRO");
 		 
 		
 
 				 
 		 System.out.println("Nome: "+ programa.getNome() + "||cpf: " + programa.cpf + "|| Idade: " + programa.idade);
 		 System.out.println("Nome: "+ programa2.getNome() + "||cpf: " + programa2.cpf + "|| Idade: " + programa2.idade);
-		 
+		 System.out.println("Nome: "+ programa2.getNome());
 		 
 
 	}
